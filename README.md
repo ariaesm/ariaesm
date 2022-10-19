@@ -1,5 +1,6 @@
 👋  Hi | Hallo | Olá | Kumusta | హలో | नमस्ते  | سلام
-You can see what I am currently up to on [AriaEsmaeilzadeh.ir][1].
+
+
 
 ## 📬 Get in touch
 
