@@ -21,11 +21,6 @@ Teaching in Iran's Technical and Professional Organization has provided me with 
 With more than 3 years of successful experience in the computer business and academia, I can claim to be renowned as a computer engineer, innovator, performance-oriented, and perfectly motivated.
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielarturoalejoalvarez&show_icons=true&locale=en&layout=compact" alt="danielarturoalejoalvarez" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielarturoalejoalvarez&show_icons=true&locale=en" alt="danielarturoalejoalvarez" /></p>
-
-
 ## :zap: What can I do?
 👉 Python Programming ( Tensorflow , OpenCV , Pandas , Matpolip ...)
 
