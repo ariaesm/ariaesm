@@ -1,4 +1,4 @@
-              00000000000000000000000000000000000000 | WELCOME TO MY PROFILE | 00000000000000000000000000000000000000   
+| WELCOME TO MY PROFILE |   
 You can see what I am currently up to on [AriaEsmaeilzadeh.ir][1].
 
 ## 📬 Get in touch
@@ -36,6 +36,7 @@ With more than 3 years of successful experience in the computer business and aca
 
 👉 Bootstrap
 
+Location: Iran , EA , Tbz
 
 [1]:
   https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
