@@ -1,5 +1,5 @@
 | WELCOME TO ARIA ESMAEILZADEH PROFILE |   
-You can see what I am currently up to on my website : [AriaEsmaeilzadeh.ir][1].
+You Can See What I am currently up to on my website : [AriaEsmaeilzadeh.ir][1].
 
 ## 📬 Get in touch
 <p align="center">
