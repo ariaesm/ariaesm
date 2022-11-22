@@ -24,7 +24,7 @@ With more than 3 years of successful experience in the computer business and aca
 ## :zap: What can I do?
 👉 Python Programming ( Tensorflow , OpenCV , Pandas , Matpolip ...)
 
-👉 Django FrameWork( Online Shop CMS , Resume Websites , ...)
+👉 Django FrameWork( Online Shop CMS ,  Resume Websites , ...)
 
 👉 Laravel FrameWork( Online Shop CMS , ...)
 
