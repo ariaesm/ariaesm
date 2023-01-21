@@ -11,7 +11,7 @@ You Can See What I Am Currently Up to On My Official WebSite : [AriaEsmaeilzadeh
 
 👉🏻📧 Email [Aria.esm@gmail.com][5].
 
-## 🌳 About
+## 🌳 About Me
 
 
 My path as an IT manager began with a bachelor's degree in computer engineering, and I plan to further my education in the field of Information Technology - artificial intelligence and data sciences.
