@@ -36,7 +36,6 @@ With more than 3 years of successful experience in the computer business and aca
 
 👉 Bootstrap
 
-My Programming Class: MFtabriz & Sepidar AC in Tabriz , I.R.Iran 
 Location: Iran , EA , Tbz
 
 [1]:
