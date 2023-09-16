@@ -1,4 +1,4 @@
-| --> WELCOME TO  ARIA ESMAEILZADEH PROFILE <-- |
+WELCOME TO  ARIA ESMAEILZADEH PROFILE
 
 
 You Can See What I Am Currently Up to On My Official WebSite : [AriaEsmaeilzadeh.ir][1].
