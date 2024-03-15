@@ -1,7 +1,7 @@
 WELCOME TO  Aria Esmaeilzadeh PROFILE
 
 
-You can See What I Am Currently Up to on My Official webSite :   [AriaEsmaeilzadeh.ir][1].
+You can See What i Am Currently Up to on My Official webSite :   [AriaEsmaeilzadeh.ir][1].
 
 ## 📬 GET IN TOUCH -- > 
 <p align="center">
