@@ -3,7 +3,7 @@ WelLCOME TO  Aria Esmaeilzadeh PROFILE
 
 You can see What i am Currently Up to on My Official WebSite :   [AriaEsmaeilzadeh.ir][1].
 
-## 📬 GET IN TOUCH -- > 
+## 📬 GET IN TOUCH
 <p align="center">
 	<a href="https://github.com/ariaesm"> <img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/aria-esmaeilzadeh/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
