@@ -70,8 +70,6 @@ Location: Iran , EA , Tbz
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>  -->
-
-![Snake animation](https://github.com/willianmano/willianmano/blob/main/github-contribution-grid-snake.svg)
 </div>
 
 <br />
@@ -80,23 +78,6 @@ Location: Iran , EA , Tbz
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
