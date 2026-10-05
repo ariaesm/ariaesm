@@ -12,62 +12,9 @@ You can see What i am Currently Up to on My Official WebSite:    [AriaEsmaeilzad
 </p>
 
 👉🏻📧 Email [Aria.esm@gmail.com][5].
-
-## 🌳 About Me
-
-
-My path as an IT manager began with a bachelor's degree in computer engineering, and I plan to further my education in the field of Information Technology - artificial intelligence and data sciences.
-I appreciate providing engineering programming and development information that is applicable to AI design, data mining, data science, Python programming, optimization, and other topics.
-Teaching in Iran's Technical and Professional Organization has provided me with essential skills, knowledge, and experience.
-
-With more than 3 years of successful experience in the computer business and academia, I can claim to be renowned as a computer engineer, innovator, performance-oriented, and perfectly motivated.
-
-
-## :zap: What can I do?
-👉 Python Programming ( Tensorflow , OpenCV , Pandas , Matpolip ...)
-
-👉 Django FrameWork( Online Shop CMS ,  Resume Websites , ...)
-
-👉 Laravel FrameWork( Online Shop CMS , ...)
-
-👉 Wordpress (Any website)
-
-👉 JS 
-
-👉 HTML & CSS
-
-👉 Bootstrap
-
-Location: Iran , EA , Tbz
-
-
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Aria Esmaeilzadeh!;" />
 </h1>
 
 <h4><span style="font-weight: bold;">About me:</span> Data Scientist , IT manager , WP Developer Django , Py , I'm thrilled to have you visit my GitHub profile!</h4>
 <br/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=py,django,wordpress,mysql,linux,docker" />
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,github,git,html,css" />
-</div>
-
-
-[1]:
-  https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
-[2]: https://www.linkedin.com/in/aria-esmaeilzadeh/
-[3]: twitter.com/aria_esm
-[4]: ariaesmaeilzadeh.ir
-[5]:
-  https://newsletter.natterstefan.me?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
-[6]: https://medium.com/@natterstefan
-[7]: https://hashnode.com/@natterstefan
-[8]: https://nttr.st/2QoQhEb
-[9]: https://nttr.st/2YEatXb
-[10]: https://dev.to/natterstefan
-[11]: fhttps://www.youtube.com/natterstefan?sub_confirmation=1
