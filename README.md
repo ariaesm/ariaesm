@@ -56,29 +56,6 @@ Location: Iran , EA , Tbz
     <img src="https://skillicons.dev/icons?i=py,django,wordpress,mysql,linux,docker" />
     <img src="https://skillicons.dev/icons?i=js,react,tailwind,github,git,html,css" />
 </div>
-<br>
-<!-- <div> 
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href = "">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>  -->
-</div>
-
-<br />
-<!--- - 👋 Hi, I’m Amirhossein-Edadi
-- 👀 I’m interested in Back-End development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-
 
 
 [1]:
