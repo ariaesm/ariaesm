@@ -1,20 +1,20 @@
-WelLCOME TO  Aria Esmaeilzadeh Github PROFILE 
+<div align="center">
 
+# Hi, I'm Aria Esmaeilzadeh 👋
 
-You can see What i am Currently Up to on My Official WebSite:    [AriaEsmaeilzadeh.ir][1].
+### Software Developer · Founder of [Techvibe](https://techvibe.ir)
 
-## 📬 GET IN TOUCH
-<p align="center">
-	<a href="https://github.com/ariaesm"> <img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/aria-esmaeilzadeh/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/aria.esm/"><img src="https://user-images.githubusercontent.com/58532023/171219320-cc1517cb-54a9-470c-a92d-965524a7b3aa.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/aria_esm"><img src="https://user-images.githubusercontent.com/58532023/171218519-2ccc030a-72b5-45ea-a2ec-7f1dfbef917f.png" alt="Twitter"/></a>
-</p>
+I build practical web products for businesses — from e-commerce platforms to custom dashboards and customer-feedback tools.
 
-👉🏻📧 Email [Aria.esm@gmail.com][5].
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Aria Esmaeilzadeh!;" />
-</h1>
+[![Website](https://img.shields.io/badge/Website-techvibe.ir-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://techvibe.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aria-esmaeilzadeh/)
 
-<h4><span style="font-weight: bold;">About me:</span> Data Scientist , IT manager , WP Developer Django , Py , I'm thrilled to have you visit my GitHub profile!</h4>
-<br/>
+</div>
+
+---
+
+## About me
+
+I'm a software developer focused on building websites, online stores, and custom business tools. I enjoy turning real operational problems into clean, usable software.
+
+My current interests include software engineering, AI-assisted development, natural language processing, information retrieval, and software quality.
