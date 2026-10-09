@@ -28,7 +28,7 @@ My current interests include software engineering, AI-assisted development, natu
 ## Current focus
 
 - Building reliable web platforms and business dashboards |
-- Developing custom WordPress features and e-commerce experiences
+- Developing custom WordPress features and e-commerce experiences |
 - Exploring AI-assisted software development and code quality
 
 ---
