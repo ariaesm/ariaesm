@@ -29,7 +29,7 @@ My current interests include software engineering, AI-assisted development, natu
 
 - Building reliable web platforms and business dashboards |
 - Developing custom WordPress features and e-commerce experiences |
-- Exploring AI-assisted software development and code quality
+- Exploring AI-assisted software development and code quality |
 
 ---
 
