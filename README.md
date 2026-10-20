@@ -1,5 +1,5 @@
  <div align="center">
-
+<<>>
 # Hi, I'm Aria Esmaeilzadeh 
 
 ### Software Developer  ·  Founder of [Techvibe](https://techvibe.ir)
@@ -19,7 +19,7 @@ I'm a software developer focused on building websites, online stores, and custom
 
 My current interests include software engineering, AI-assisted development, natural language processing, information retrieval, and software quality.
 
-## Languages & tools
+## Languages & tools 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,django,laravel,wordpress,postgres,git,github&perline=10" alt="Python, JavaScript, HTML, CSS, Django, Laravel, WordPress, PostgreSQL, Git, and GitHub" />
