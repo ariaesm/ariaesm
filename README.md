@@ -1,7 +1,7 @@
  <div align="center">
 Hi, I'm Aria Esmaeilzadeh 
 
-### Software Developer  ·  Founder of [Techvibe](https://techvibe.ir)
+### Software Developer   - · -   Founder of [Techvibe](https://techvibe.ir)
 
 I build practical web products for businesses   —   from e-commerce platforms to custom dashboards and customer-feedback tools.
 
