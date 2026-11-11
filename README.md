@@ -8,6 +8,7 @@ I build practical software for businesses, from e-commerce platforms to custom d
 On the side I work on **Python, AI/LLM tooling and quantitative trading research**.
 
 [![Website](https://img.shields.io/badge/Website-techvibe.ir-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://techvibe.ir)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ariaesm.github.io-0F172A?style=for-the-badge&logo=githubpages&logoColor=white)](https://ariaesm.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aria-esmaeilzadeh/)
 
 </div>
@@ -34,14 +35,14 @@ On the side I work on **Python, AI/LLM tooling and quantitative trading research
 - [python-advance](https://github.com/ariaesm/python-advance): object-oriented Python, lesson by lesson
 - [python-codes](https://github.com/ariaesm/python-codes): classic algorithms & data structures with tests
 - [dendrogram](https://github.com/ariaesm/dendrogram): `dendro`, a CLI that clusters any CSV and draws dendrograms
-- [speech-recognition](https://github.com/ariaesm/speech-recognition): offline keyword spotting with MFCC + DTW from scratch
-- [telegram-bot-with-python](https://github.com/ariaesm/telegram-bot-with-python): toolbox bot with a Jalali ↔ Gregorian converter
+- [Speech-Recognition](https://github.com/ariaesm/Speech-Recognition): offline keyword spotting with MFCC + DTW from scratch
+- [Telegram-bot-with-Python](https://github.com/ariaesm/Telegram-bot-with-Python): toolbox bot with a Jalali ↔ Gregorian converter
 - [instagram-unfollower](https://github.com/ariaesm/instagram-unfollower): find non-followers from your official Instagram data export
 
 ## Languages & tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,js,html,css,laravel,wordpress,postgres,redis,docker,git,github&perline=13" alt="Python, FastAPI, Django, JavaScript, HTML, CSS, Laravel, WordPress, PostgreSQL, Redis, Docker, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,python,fastapi,django,js,html,css,php,laravel,wordpress,postgres,redis,docker,git,github&perline=9" alt="TypeScript, React, Next.js, Vite, Python, FastAPI, Django, JavaScript, HTML, CSS, PHP, Laravel, WordPress, PostgreSQL, Redis, Docker, Git, GitHub" />
 </p>
 
 ## Current focus
