@@ -2,7 +2,7 @@
 
 # Hi, I am Aria Esmaeilzadeh
 
-### Software Developer  ·  F    ounder  of [Techvibe](https://techvibe.ir)
+### Software Developer  ·  Founder of [Techvibe](https://techvibe.ir)
 
 I build practical software for businesses, from e-commerce platforms to custom dashboards and customer-feedback tools.
 On the side I work on **Python, AI/LLM tooling and quantitative trading research**.
@@ -19,6 +19,7 @@ On the side I work on **Python, AI/LLM tooling and quantitative trading research
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [**next-persian-starter**](https://github.com/ariaesm/next-persian-starter) | Production-ready Next.js 15 template: TypeScript, full Persian/RTL localization, Vazirmatn font, SEO engine, and Persian utility toolkit | Next.js 15 · TypeScript · Tailwind |
 | [**persian-rag**](https://github.com/ariaesm/persian-rag) | Question answering over Persian documents with an LLM: Persian-aware normalization, BM25 + embedding hybrid search, cited answers | Python · NLP · LLM |
 | [**backtest-lab**](https://github.com/ariaesm/backtest-lab) | Candlestick-pattern backtesting engine with risk metrics, walk-forward optimization and a CLI | Python · pandas |
 | [**market-pulse-api**](https://github.com/ariaesm/market-pulse-api) | Market-data API: technical indicators, rule-based alerts and live WebSocket streaming | FastAPI · Redis · Docker |
