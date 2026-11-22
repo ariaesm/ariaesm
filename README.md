@@ -19,6 +19,7 @@ On the side I work on **Python, AI/LLM tooling and quantitative trading research
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [**react-jalali-datepicker**](https://github.com/ariaesm/react-jalali-datepicker) | Modern, accessible, zero-dependency Jalali (Shamsi) Date & Range Picker for React 19, Next.js 15, and Tailwind CSS | React 19 · Next.js 15 · Tailwind |
 | [**next-persian-starter**](https://github.com/ariaesm/next-persian-starter) | Production-ready Next.js 15 template: TypeScript, full Persian/RTL localization, Vazirmatn font, SEO engine, and Persian utility toolkit | Next.js 15 · TypeScript · Tailwind |
 | [**persian-rag**](https://github.com/ariaesm/persian-rag) | Question answering over Persian documents with an LLM: Persian-aware normalization, BM25 + embedding hybrid search, cited answers | Python · NLP · LLM |
 | [**backtest-lab**](https://github.com/ariaesm/backtest-lab) | Candlestick-pattern backtesting engine with risk metrics, walk-forward optimization and a CLI | Python · pandas |
