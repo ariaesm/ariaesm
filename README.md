@@ -31,23 +31,6 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariaesm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=38bdf8" alt="Aria's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariaesm&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariaesm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1" alt="Top Languages" />
-</p>
-
-</div>
-
----
-
 ### 🛠️ Languages & Tools
 
 <div align="center">
