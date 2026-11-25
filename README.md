@@ -22,6 +22,8 @@
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [**react-jalali-datepicker**](https://github.com/ariaesm/react-jalali-datepicker) | Modern, accessible, zero-dependency Jalali (Shamsi) Date & Range Picker for React 19, Next.js 15, and Tailwind CSS | React 19 · Next.js 15 · Tailwind |
+| [**react-persian-masked-input**](https://github.com/ariaesm/react-persian-masked-input) | Accessible, zero-dependency masked input components for Currency (Toman/Rial), Bank Cards, and Mobile | React 19 · Next.js 15 · TypeScript |
+| [**next-persian-seo**](https://github.com/ariaesm/next-persian-seo) | Type-safe JSON-LD structured data and SEO meta generator for Next.js 15, React 19, and the Persian web | Next.js 15 · Schema.org · SEO |
 | [**next-persian-starter**](https://github.com/ariaesm/next-persian-starter) | Production-ready Next.js 15 template: TypeScript, full Persian/RTL localization, Vazirmatn font, and built-in SEO engine | Next.js 15 · TypeScript · Tailwind |
 | [**persian-rag**](https://github.com/ariaesm/persian-rag) | Question answering over Persian documents with an LLM: Persian-aware normalization, BM25 + embedding hybrid search, cited answers | Python · NLP · LLM |
 | [**market-pulse-api**](https://github.com/ariaesm/market-pulse-api) | Market-data service: OHLCV data, technical indicators, rule-based alerts and live WebSocket streaming with Redis & Docker | FastAPI · Redis · Docker |
