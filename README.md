@@ -25,6 +25,7 @@
 | [**react-persian-masked-input**](https://github.com/ariaesm/react-persian-masked-input) | Accessible, zero-dependency masked input components for Currency (Toman/Rial), Bank Cards, and Mobile | React 19 · Next.js 15 · TypeScript |
 | [**next-persian-seo**](https://github.com/ariaesm/next-persian-seo) | Type-safe JSON-LD structured data and SEO meta generator for Next.js 15, React 19, and the Persian web | Next.js 15 · Schema.org · SEO |
 | [**next-persian-starter**](https://github.com/ariaesm/next-persian-starter) | Production-ready Next.js 15 template: TypeScript, full Persian/RTL localization, Vazirmatn font, and built-in SEO engine | Next.js 15 · TypeScript · Tailwind |
+| [**market-regime-detector**](https://github.com/ariaesm/market-regime-detector) | Quantitative Machine Learning pipeline to detect & forecast market regimes using GMM and Random Forest | Python · scikit-learn · Quant |
 | [**persian-rag**](https://github.com/ariaesm/persian-rag) | Question answering over Persian documents with an LLM: Persian-aware normalization, BM25 + embedding hybrid search, cited answers | Python · NLP · LLM |
 | [**market-pulse-api**](https://github.com/ariaesm/market-pulse-api) | Market-data service: OHLCV data, technical indicators, rule-based alerts and live WebSocket streaming with Redis & Docker | FastAPI · Redis · Docker |
 | [**backtest-lab**](https://github.com/ariaesm/backtest-lab) | Candlestick-pattern backtesting engine with risk metrics, walk-forward optimization and an interactive CLI | Python · pandas |
