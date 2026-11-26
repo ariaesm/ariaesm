@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Aria Esmaeilzadeh 👋
+# Hi there, I'm Aria Esmaeilzadeh
 
 <a href="https://techvibe.ir">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Developer+%26+Builder;Founder+%40+Techvibe;Next.js+15+%7C+Python+%7C+AI+Tooling;Quantitative+Trading+Research" alt="Typing SVG" />
