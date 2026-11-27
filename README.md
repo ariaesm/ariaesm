@@ -21,6 +21,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| [**persian-llm-benchmark**](https://github.com/ariaesm/persian-llm-benchmark) | Academic evaluation suite for testing reasoning, domain knowledge, and factual consistency in Persian LLMs | Python · LLM Eval · Benchmark |
 | [**react-jalali-datepicker**](https://github.com/ariaesm/react-jalali-datepicker) | Modern, accessible, zero-dependency Jalali (Shamsi) Date & Range Picker for React 19, Next.js 15, and Tailwind CSS | React 19 · Next.js 15 · Tailwind |
 | [**react-persian-masked-input**](https://github.com/ariaesm/react-persian-masked-input) | Accessible, zero-dependency masked input components for Currency (Toman/Rial), Bank Cards, and Mobile | React 19 · Next.js 15 · TypeScript |
 | [**next-persian-seo**](https://github.com/ariaesm/next-persian-seo) | Type-safe JSON-LD structured data and SEO meta generator for Next.js 15, React 19, and the Persian web | Next.js 15 · Schema.org · SEO |
